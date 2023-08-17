@@ -1,6 +1,7 @@
 import webbrowser
 
-url="172.16.16.16:8090"
+web=input("Enter web path\n")
+url=f"{web}"
 url2="youtube.com"
 
 
